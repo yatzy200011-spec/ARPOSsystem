@@ -1,0 +1,44 @@
+{
+  "id": "/ARBambang/",
+  "name": "AgriFeed & Rice Supply - Store Operations System",
+  "short_name": "AgriFeed POS",
+  "description": "Offline point-of-sale, inventory, credit ledger, reports, and cash-out system.",
+  "start_url": "/ARBambang/index.html",
+  "scope": "/ARBambang/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "background_color": "#f1f5f9",
+  "theme_color": "#14532d",
+  "lang": "en",
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/ARBambang/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ARBambang/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ARBambang/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/ARBambang/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
